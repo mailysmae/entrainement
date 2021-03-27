@@ -1,0 +1,21 @@
+/*list*/
+
+/*MENU*/
+.menu{
+    margin: 10px;
+}
+.menu__liste{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menu__el{
+    margin-bottom: 10px;
+}
+.menu__el a{
+    text-decoration: none;
+}
+.menu__el a:hover,
+.menu__el a:focus{
+    text-decoration: underline;
+}
